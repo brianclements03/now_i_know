@@ -1,0 +1,1 @@
+09-20-21: i learned order by, limit clauses in sql; also some of the important reasons we use sql instead of access/excel. (see the sql book in your machine learning library). Also learned a few things about the macos doc and mission control.  Learned a couple basics of MySql Workbench.
