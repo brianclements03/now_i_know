@@ -2,3 +2,4 @@
 09-21-21: group by in sql; how to remove a git remote from a file and add a different one (see the 'practical sql' book and exercises).  
 09-22-21: learned join in sql.  
 09-23-21: really learned join, let's be honest
+09-24-21: learned subqueries in SQL
