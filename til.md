@@ -3,3 +3,4 @@
 09-22-21: learned join in sql.  
 09-23-21: really learned join, let's be honest
 09-24-21: learned subqueries in SQL
+09-27-21: temporary tables. even though it's still murky.
