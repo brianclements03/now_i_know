@@ -5,3 +5,4 @@
 09-24-21: SQL learned subqueries in SQL
 09-27-21: SQL temporary tables. even though it's still murky.
 09-28-21: SQL case statements
+09-29-21: I learned that I need to spend more time every day practicing code
