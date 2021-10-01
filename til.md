@@ -6,3 +6,4 @@
 09-27-21: SQL temporary tables. even though it's still murky.
 09-28-21: SQL case statements
 09-29-21: I learned that I need to spend more time every day practicing code
+09-30-21: learned to install python, create and execute a python script and jupyter notebook.  intall a library using pip. use the -i flag with python/ipython to to run a script interactively.  started to understand the utility of jupyter
