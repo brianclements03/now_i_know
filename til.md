@@ -8,3 +8,4 @@
 09-29-21: I learned that I need to spend more time every day practicing code
 09-30-21: learned to install python, create and execute a python script and jupyter notebook.  intall a library using pip. use the -i flag with python/ipython to to run a script interactively.  started to understand the utility of jupyter
 10-01-21: introductory python.  data types. lists. list comprehension, although i didn't really understand it. yet. learned about lists vs sets vs tuples vs dictionaries and how to create an empty one of each -- see the corey schafer video at https://youtu.be/W8KRzm-HUcc
+10-04-21: python control structures and practice.  for loops. while and break/continue.  still not getting this 100%, plenty of practice to do that my personal life is keeping me from. the priority changes today.
