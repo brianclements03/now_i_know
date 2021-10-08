@@ -10,3 +10,4 @@
 10-01-21: introductory python.  data types. lists. list comprehension, although i didn't really understand it. yet. learned about lists vs sets vs tuples vs dictionaries and how to create an empty one of each -- see the corey schafer video at https://youtu.be/W8KRzm-HUcc
 10-04-21: python control structures and practice.  for loops. while and break/continue.  still not getting this 100%, plenty of practice to do that my personal life is keeping me from. the priority changes today.
 10-05-21: learned functions. part of the exercise really required an understanding of lists and loops, which was great
+10-07-21: first lesson on imports. 
