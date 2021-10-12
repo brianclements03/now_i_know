@@ -12,4 +12,4 @@
 10-05-21: learned functions. part of the exercise really required an understanding of lists and loops, which was great
 10-07-21: first lesson on imports. 
 10-08-21: great lesson from Ravinder on matplotlib.  
-10-10-21: practiced matplotlib
+10-10-21: practiced matplotlib. 
