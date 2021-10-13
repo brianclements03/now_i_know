@@ -13,3 +13,4 @@
 10-07-21: first lesson on imports. 
 10-08-21: great lesson from Ravinder on matplotlib.  
 10-10-21: practiced matplotlib. 
+10-12-21: NUMPYYYYY love this. like a walk in the park next to for-loops
