@@ -14,3 +14,4 @@
 10-08-21: great lesson from Ravinder on matplotlib.  
 10-10-21: practiced matplotlib. 
 10-12-21: NUMPYYYYY love this. like a walk in the park next to for-loops
+10-13-21: reviewed some numpy, AND got some review on for loops and list comprehension, which i needed and still need
