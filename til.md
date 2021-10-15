@@ -15,3 +15,4 @@
 10-10-21: practiced matplotlib. 
 10-12-21: NUMPYYYYY love this. like a walk in the park next to for-loops
 10-13-21: reviewed some numpy, AND got some review on for loops and list comprehension, which i needed and still need
+10-14-21: finally started Pandas, learned Series. How to plot using pd series. Slicing techniques, which I had seen but not understood well previously. What is a vectorized operation.  Methods vs Attributes and how this affects using the .str in pandas
