@@ -17,3 +17,4 @@
 10-13-21: reviewed some numpy, AND got some review on for loops and list comprehension, which i needed and still need
 10-14-21: finally started Pandas, learned Series. How to plot using pd series. Slicing techniques, which I had seen but not understood well previously. What is a vectorized operation.  Methods vs Attributes and how this affects using the .str in pandas
 10-15-21: first lesson on pandasd DataFrames. Please remember to review the Kaggle lesson too, which was excellent
+10-17-21: practiced and got better at some python data manipulation exercises
