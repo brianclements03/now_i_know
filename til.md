@@ -20,3 +20,4 @@
 10-17-21: practiced and got better at some python data manipulation exercises
 10-18-21: learned advanced dataframes--meaning, SQL and PANDAS together.  Pretty neat.  I'm more excited about starting to get my head around accessing embedded dictionaries and lists.
 10-19-21: how to execute a command in SQL from a python/jupyter command line using pandas. review from previous days, actually. excellent practice though. and different ways to slice and dice data. pandas 'pivot_tables' and crosstabs.  
+10-21-21: learned the initial Seaborn stuff. Practiced with exercises, it went pretty well as far as i got
