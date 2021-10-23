@@ -8,7 +8,7 @@
 09-29-21: I learned that I need to spend more time every day practicing code
 09-30-21: learned to install python, create and execute a python script and jupyter notebook.  intall a library using pip. use the -i flag with python/ipython to to run a script interactively.  started to understand the utility of jupyter
 10-01-21: introductory python.  data types. lists. list comprehension, although i didn't really understand it. yet. learned about lists vs sets vs tuples vs dictionaries and how to create an empty one of each -- see the corey schafer video at https://youtu.be/W8KRzm-HUcc
-10-04-21: python control structures and practice.  for loops. while and break/continue.  still not getting this 100%, plenty of practice to do that my personal life is keeping me from. the priority changes today.
+10-04-21: python control structures and practice.  for loops. while and break/continue.  still not getting this 100%, plenty of practice to do.
 10-05-21: learned functions. part of the exercise really required an understanding of lists and loops, which was great
 10-07-21: first lesson on imports. 
 10-08-21: great lesson from Ravinder on matplotlib.  
@@ -22,3 +22,4 @@
 10-19-21: how to execute a command in SQL from a python/jupyter command line using pandas. review from previous days, actually. excellent practice though. and different ways to slice and dice data. pandas 'pivot_tables' and crosstabs.  
 10-21-21: learned the initial Seaborn stuff. Practiced with exercises, it went pretty well as far as i got
 10-22-21: more of the same, got more git practice with the guipsamora folder, and more pandas and seaborn practice as well
+20-22-21: repeat entry. we learned spreadsheets basics yesterday (in google docs, all of it)
