@@ -23,3 +23,4 @@
 10-21-21: learned the initial Seaborn stuff. Practiced with exercises, it went pretty well as far as i got
 10-22-21: more of the same, got more git practice with the guipsamora folder, and more pandas and seaborn practice as well
 20-22-21: repeat entry. we learned spreadsheets basics yesterday (in google docs, all of it)
+10-24-21: learned iferror() in spreadsheets. and correct way to use vlookup() across sheets
