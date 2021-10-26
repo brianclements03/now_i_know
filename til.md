@@ -24,3 +24,4 @@
 10-22-21: more of the same, got more git practice with the guipsamora folder, and more pandas and seaborn practice as well
 20-22-21: repeat entry. we learned spreadsheets basics yesterday (in google docs, all of it)
 10-24-21: learned iferror() in spreadsheets. and correct way to use vlookup() across sheets
+10-25-21: basics of data visualization.  the 7 step review process. good and bad charts
