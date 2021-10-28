@@ -25,3 +25,5 @@
 20-22-21: repeat entry. we learned spreadsheets basics yesterday (in google docs, all of it)
 10-24-21: learned iferror() in spreadsheets. and correct way to use vlookup() across sheets
 10-25-21: basics of data visualization.  the 7 step review process. good and bad charts
+10-26-21: story telling
+10-27-21: tableau! import data from different sources. initial manipulation, graphics, etc
