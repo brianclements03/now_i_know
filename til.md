@@ -28,3 +28,4 @@
 10-26-21: story telling
 10-27-21: tableau! import data from different sources. initial manipulation, graphics, etc
 10-29-21: learned some basic functions of sketchpad, including using layers to manipulate images
+10-31-21: how to record a screen share for presentation
