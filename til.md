@@ -31,3 +31,4 @@
 10-31-21: how to record a screen share for presentation
 11-01-21: intro to scipy library.  
 11-02-21: stats module.  Discrete vs Continuous data. pdf/pmf; cdf/ppf; sf/isf. Apply each to different types of data
+11-03-21: probability distributions and graphing them. creating simulations
