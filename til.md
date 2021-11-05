@@ -32,3 +32,4 @@
 11-01-21: intro to scipy library.  
 11-02-21: stats module.  Discrete vs Continuous data. pdf/pmf; cdf/ppf; sf/isf. Apply each to different types of data
 11-03-21: probability distributions and graphing them. creating simulations
+11-04-21: how to calculate t-statistic, p-value.  what is null hypothesis and alternate hypothesis.  how to decide whether or not to reject the hypothesis.
