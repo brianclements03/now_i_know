@@ -33,3 +33,4 @@
 11-02-21: stats module.  Discrete vs Continuous data. pdf/pmf; cdf/ppf; sf/isf. Apply each to different types of data
 11-03-21: probability distributions and graphing them. creating simulations
 11-04-21: how to calculate t-statistic, p-value.  what is null hypothesis and alternate hypothesis.  how to decide whether or not to reject the hypothesis.
+11-05-21: pearsons test.  correlation.  spent an awful lot of time reviewing data manipulation in order to be able to run the tests
