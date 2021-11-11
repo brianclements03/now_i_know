@@ -36,3 +36,4 @@
 11-05-21: pearsons test.  correlation.  spent an awful lot of time reviewing data manipulation in order to be able to run the tests
 11-08-21: chi ** 2 test. refresh sql and python a little. numpy too a little.  pandas always
 11-09-21: data acquisition; caching--built a function to pull data from file or sql depending on if the file is present.  initial classification exercises
+11-10-21: data prep lesson. built functions to perform certain cleaning and splitting processes. also worked with the acquire functions more, which i had built previously
