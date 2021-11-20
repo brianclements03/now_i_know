@@ -41,3 +41,4 @@
 11-16-21: model evaluation: accuracy, recall, precision (and specificity/npv)
 11-17-21: sklearn's decision tree formulae.  also, installed graphviz and used it to visualize the decision tree
 11-16-21: random forest model.  
+11-17-21 through 11-19-21: KNN and Logistec Regression models. 
