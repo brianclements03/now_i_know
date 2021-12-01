@@ -42,3 +42,4 @@
 11-17-21: sklearn's decision tree formulae.  also, installed graphviz and used it to visualize the decision tree
 11-18-21: random forest model.  
 11-19-21: KNN and Logistec Regression models. 
+11-30-21: Initial regression lesson and wrangle/clean zillow data.
