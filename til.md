@@ -44,3 +44,4 @@
 11-19-21: KNN and Logistec Regression models. 
 11-30-21: Initial regression lesson and wrangle/clean zillow data.
 12-01-21: enumerate in python. neat little code to number in for loops etc
+12-02-21: Scaling
