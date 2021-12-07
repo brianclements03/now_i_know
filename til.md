@@ -46,3 +46,4 @@
 12-01-21: enumerate in python. neat little code to number in for loops etc
 12-02-21: Scaling
 12-04-21: created explore graphing functions
+12-06-21: learned the OLS (ordinary least squares) regression model and when it is not a good predictor (think heteroscedascticity)
