@@ -46,4 +46,5 @@
 12-01-21: enumerate in python. neat little code to number in for loops etc
 12-02-21: Scaling
 12-04-21: created explore graphing functions
-12-06-21: learned the OLS (ordinary least squares) regression model and when it is not a good predictor (think heteroscedascticity)
+12-06-21: learned the OLS (ordinary least squares) regression model and when it is not a good predictor (think heteroscedascticity). The graphs can differ widely depending on the x variable you're looking at, depending on how good each respective one is for the model.
+12-07-21: K-Best and Recursive Feature Engineering functions of sklearn. Loved this.  
