@@ -49,3 +49,4 @@
 12-06-21: learned the OLS (ordinary least squares) regression model and when it is not a good predictor (think heteroscedascticity). The graphs can differ widely depending on the x variable you're looking at, depending on how good each respective one is for the model.
 12-07-21: K-Best and Recursive Feature Engineering functions of sklearn. Loved this.  
 12-08-21: Finally applied different regression models and compared.  OLS; LASSOLARS; POLYNOMIAL; GLM
+12-14-21: learned a new way to iterate across rows. Good SQL practice as well, revisiting subqueries
