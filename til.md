@@ -50,3 +50,4 @@
 12-07-21: K-Best and Recursive Feature Engineering functions of sklearn. Loved this.  
 12-08-21: Finally applied different regression models and compared.  OLS; LASSOLARS; POLYNOMIAL; GLM
 12-14-21: learned a new way to iterate across rows. Good SQL practice as well, revisiting subqueries
+12-18-21: Interesting article in my CodeUp desktop folder about the use of mean to evaluate models and the problems it gives. We briefly saw this in the Zillow data when comparing x_attributes to tax_value: cheaper houses have an outsized influence on the overall mean (b/c their log error is way larger, b/c theya are cheaper!)
